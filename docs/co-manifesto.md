@@ -1,0 +1,1 @@
+# co-manifesto.md
